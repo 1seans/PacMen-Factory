@@ -1,5 +1,5 @@
 # PacMen-Factory
-##. How to run
+## How to run.
 This is a Pac-Man game in which characters move around a page and bounce off the edges when they reach it.
 
 To run this project on your machine, you will need to open the HTML file in a web browser and ensure that all necessary files (JavaScript, HTML, CSS, and image files) are in the same directory.
