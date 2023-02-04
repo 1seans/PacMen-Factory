@@ -1,10 +1,23 @@
-# PacMen-Factory
-## This is a Pac-Man game in which characters move around a page and bounce off the edges when they reach it.
-How to run:
-To run this project on your machine, you will need to open the HTML file in a web browser and ensure that all necessary files (JavaScript, HTML, CSS, and image files) are in the same directory.
+#Pacmen README
+##This code is an implementation of the game "Pacmen" in HTML and JavaScript.
 
-Roadmap of future improvements:
-There are a few potential improvements that could be made to this project in the future. These could include adding more complex collision detection to better handle collisions with multiple characters, implementing different game modes or challenges, and adding more visual and audio effects to enhance the overall user experience.
-
-License Information:
-This project is licensed under the MIT license. This means that you are free to use, modify, and distribute the code as long as you include the MIT license and copyright notice in any copies or derivative works.
+###Components
+HTML for the game's layout and structure.
+CSS for styling the HTML elements.
+JavaScript for game logic, mechanics and animations.
+Features
+The game has two buttons: "Add PacMan" and "Start Game".
+The "Add PacMan" button creates a new PacMan at a random position on the game board.
+The "Start Game" button starts the game with the PacMans previously added to the game board.
+The game mechanics consist of moving the PacMens randomly around the board with a random velocity.
+Libraries & Assets
+Bootstrap 5.2.3 for styling the buttons.
+ionicons 5.5.2 for iconography.
+Images of PacMen in PNG format.
+Getting started
+Clone or download the repository.
+Open the HTML file in your browser to run the game.
+Use the "Add PacMan" button to create new PacMans.
+Use the "Start Game" button to start the game.
+Note
+Do not change the line of code: <script src="./pacmen.js"></script>.
