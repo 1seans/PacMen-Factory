@@ -1,7 +1,7 @@
-#Pacmen README
-##This code is an implementation of the game "Pacmen" in HTML and JavaScript.
+# Pacmen README
+## This code is an implementation of the game "Pacmen" in HTML and JavaScript.
 
-###Components
+### Components
 HTML for the game's layout and structure.
 CSS for styling the HTML elements.
 JavaScript for game logic, mechanics and animations.
